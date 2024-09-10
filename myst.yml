@@ -1,0 +1,20 @@
+version: 1
+project:
+  id: 0f6d5d1e-e416-46a3-80ea-a6dccab1ef6b
+  jupyter: true
+  github: https://github.com/dannycmd
+site:
+  template: book-theme
+  options:
+    # logo: images/test.png
+    logo_text: "Dan Rooney"
+  # nav:
+  #   - title: Contact
+  #     url: /AboutMe
+  actions:
+    - title: Email
+      url: mailto:danjrooney@hotmail.com
+    - title: LinkedIn
+      url: https://uk.linkedin.com/in/danjrooney98
+execute:
+  execute_notebooks: inline

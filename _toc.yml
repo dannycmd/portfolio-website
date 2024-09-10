@@ -1,0 +1,8 @@
+format: jb-book
+root: AboutMe.md
+parts:
+  - caption: Projects
+    numbered: false
+    maxdepth: 2
+    chapters:
+      - file: projects/HousePricesVisualisation.ipynb
